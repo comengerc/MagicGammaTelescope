@@ -1,2 +1,2 @@
 # MagicGammaTelescope
-Magic Gamma Telescope Classification Analysis
+Magic Gamma Telescope Classification Analysis Using Data Mining Techniques
